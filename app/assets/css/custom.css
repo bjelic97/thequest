@@ -1,0 +1,51 @@
+.word-wrap {
+    word-wrap: break-word;
+}
+
+
+.textarea {
+    max-height: 70px;
+}
+
+.textareaPost {
+    min-height: 300px;
+    resize: none;
+}
+
+.btnComm {
+    margin-top: 8px;
+
+}
+
+.elementDissapear {
+    display: none;
+}
+
+
+.right {
+
+    margin-right: 10px;
+}
+
+.bot {
+    margin-bottom: 5px;
+}
+
+.edit {
+    width: 40px;
+    height: 30px;
+}
+
+.file {
+    padding: 2rem 1.5rem;
+    font: 1rem/1.5 "PT Sans", Arial, sans-serif;
+    color: #5a5a5a;
+}
+
+.fl {
+    float: right;
+}
+
+.bot-del {
+    margin-bottom: 10px;
+}
